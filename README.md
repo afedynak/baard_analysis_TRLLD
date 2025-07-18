@@ -32,5 +32,5 @@ All scripts and code utilized in the processing, harmonization, and analysis of 
 
 This repository contains scripts for implementing modelling approaches for the BAARD project.
 
-🔗 https://github.com/afedynak/baard_modelling
+🔗 https://github.com/afedynak/baard_modeling
 
