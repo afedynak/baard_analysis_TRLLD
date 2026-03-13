@@ -11,11 +11,6 @@ This work is funded in part by the National Institute of Mental Health [grant nu
 NIH Project: 1UG3MH137353-01<br>
 https://reporter.nih.gov/search/Ot-rVrV750CHAHTHP7az_A/project-details/10954667
 
-KCNI Confluence page: 
-https://kcniconfluence.camh.ca/display/BAAR/BAARD
-
-All SQL scripts and data harmonization were authored by Amber Fedynak, for questions please contact her at Amber.Fedynak@camh.ca
-
 ### Dashboard Code Repository
 
 An interactive dashboard used to support decision making in the development and evaluation of the BAARD tool.
